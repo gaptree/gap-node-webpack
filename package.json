@@ -1,0 +1,13 @@
+{
+  "name": "gap-node-webpack",
+  "version": "1.0.0",
+  "description": "Webpack Adapter",
+  "main": "index.js",
+  "repository": "https://github.com/gaptree/gap-node-webpack",
+  "author": "zhanjh <zhanjh@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.1.1",
+    "webpack-dev-middleware": "^3.0.1"
+  }
+}
