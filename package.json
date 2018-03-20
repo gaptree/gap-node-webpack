@@ -1,6 +1,6 @@
 {
   "name": "gap-node-webpack",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Webpack Adapter",
   "main": "index.js",
   "repository": "https://github.com/gaptree/gap-node-webpack",
