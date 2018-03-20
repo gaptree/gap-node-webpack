@@ -6,6 +6,10 @@
   "repository": "https://github.com/gaptree/gap-node-webpack",
   "author": "zhanjh <zhanjh@126.com>",
   "license": "MIT",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "npm run eslint"
+  },
   "dependencies": {
     "express": "^4.16.3",
     "webpack": "^4.1.1",
