@@ -6,6 +6,7 @@ require('../index.js').build({
     contextDir: path.resolve(__dirname, 'src/js'),
     outputDir: path.resolve(__dirname, 'dist/js'),
     minimize: true,
+    mode: 'production',
     modules: [
         path.resolve(__dirname, 'module/js')
     ],
